@@ -38,11 +38,6 @@ for (i = 1; ; i++) {
 
   currentPetrol -= distanceToTravel * 2;
 
-  // if (currentDistance >= petrolPumps[ArrayIndex] && ArrayIndex < 6) {
-  //   currentPetrol += 30;
-  //   ArrayIndex++;
-  // }
-
   while (petrolPumps[ArrayIndex] <= currentDistance) {
     currentPetrol += 30;
     ArrayIndex++;
