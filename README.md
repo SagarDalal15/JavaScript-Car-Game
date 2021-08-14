@@ -13,21 +13,21 @@ Every time the car reaches the petrol pump exactly, the car gets a refill of 30 
 Game started
 Petrol pumps generated at 10, 27, 37, 39, 62, 75
 
-Move 1 - car at 5, petrol remaining 40
-Move 2 - car at 10, petrol remaining 60
-Move 3 - car at 12, petrol remaining 56
-Move 4 - car at 17, petrol remaining 46
-Move 5 - car at 19, petrol remaining 42
-Move 6 - car at 22, petrol remaining 36
-Move 7 - car at 27, petrol remaining 56
-Move 8 - car at 30, petrol remaining 50
-Move 9 - car at 34, petrol remaining 42
-Move 10 - car at 37, petrol remaining 66
-Move 11 - car at 43, petrol remaining 54
-Move 12 - car at 48, petrol remaining 44
-Move 13 - car at 51, petrol remaining 38
-Move 14 - car at 54, petrol remaining 32
-Move 15 - car at 59, petrol remaining 22
-Move 16 - car at 65, petrol remaining 10
-Move 17 - car at 66, petrol remaining 8
+Move 1 - car at 5, petrol remaining 40 <br />
+Move 2 - car at 10, petrol remaining 60 <br />
+Move 3 - car at 12, petrol remaining 56 <br />
+Move 4 - car at 17, petrol remaining 46 <br />
+Move 5 - car at 19, petrol remaining 42 <br />
+Move 6 - car at 22, petrol remaining 36 <br />
+Move 7 - car at 27, petrol remaining 56 <br />
+Move 8 - car at 30, petrol remaining 50 <br />
+Move 9 - car at 34, petrol remaining 42 <br />
+Move 10 - car at 37, petrol remaining 66 <br />
+Move 11 - car at 43, petrol remaining 54 <br />
+Move 12 - car at 48, petrol remaining 44 <br />
+Move 13 - car at 51, petrol remaining 38 <br />
+Move 14 - car at 54, petrol remaining 32 <br />
+Move 15 - car at 59, petrol remaining 22 <br />
+Move 16 - car at 65, petrol remaining 10 <br />
+Move 17 - car at 66, petrol remaining 8 <br />
 Move 18 - car at 70, petrol remaining 0, game over
